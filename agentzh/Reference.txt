@@ -1,0 +1,2 @@
+http://agentzh.org/misc/slides/nginx-conf-scripting/#1
+http://agentzh.org/misc/slides/recent-dev-nginx-conf/#1
